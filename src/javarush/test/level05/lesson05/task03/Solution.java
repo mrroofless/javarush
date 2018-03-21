@@ -1,4 +1,4 @@
-package javarush.test.task03;
+package javarush.test.level05.lesson05.task03;
 
 /* Getters and setters for the class Dog
 Create a class Dog. A dog must have a name - String name and age - int age.
